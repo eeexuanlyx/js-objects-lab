@@ -42,7 +42,8 @@ Exercise 4
 Solve Exercise 4 here:
 */
 
-game.party[0] = pokemon[0];
+game.party.push(pokemon[0]);
+//game.party[0] = pokemon[0];
 
 /*
 Exercise 5
